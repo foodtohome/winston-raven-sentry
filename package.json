@@ -7,11 +7,11 @@
     "url": "https://github.com/niftylettuce/winston-raven-sentry/issues"
   },
   "dependencies": {
-    "lodash": "^4.17.4",
-    "raven": "^2.1.0"
+    "lodash": "^4.17.5",
+    "raven": "^2.4.2"
   },
   "devDependencies": {
-    "winston": "^2.3.1"
+    "winston": "^2.4.1"
   },
   "engines": {
     "node": ">= 4.8.4"
